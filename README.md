@@ -7,8 +7,8 @@ Functionality:
 * calculating the average density of points per square meter for a given XYZ file
 * detection of outliers by statistical method
 * report in txt format containing:
-- File name
-- Whether it meets the conditions from point 3
-- listing minimum/maximum/average height
-- listing the number of lines with outliers from point 6
-- 8 message about completed operation
+	- File name
+	- Whether it meets the conditions from point 3
+	- listing minimum/maximum/average height
+	- listing the number of lines with outliers from point 6
+	- 8 message about completed operation
