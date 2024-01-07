@@ -1,4 +1,4 @@
-Python script quality control XYZ files \n
+Python script quality control XYZ files 
 Functionality:
 1 dialog box with input,coordinate system selection, report output
 2 possibility to input multiple XYZ files
